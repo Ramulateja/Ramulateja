@@ -29,7 +29,6 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="30" width="40"/>
 </a>
 </p>
-
 <br></br>
 
 <h3>🛠️ Tech Stack</h3>
