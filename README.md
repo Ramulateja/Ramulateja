@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tejaportfolio83.vercel.app/](https://tejaportfolio83.vercel.app/)
 
-- 📫 How to reach me **ramulatejavardhan6@gmail.com**
+- 📫 To reach me **ramulatejavardhan6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
