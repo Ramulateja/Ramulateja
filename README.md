@@ -24,6 +24,9 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramula teja vardhan" height="30" width="40" />
 </a>
 <a href="https://www.leetcode.com/ramulateja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramulateja" height="30" width="40" /></a>
+<a href="mailto:ramulatejavardhan6@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30"/>
+</a>
 <br></br>
 
 <h3>🛠️ Tech Stack</h3>
