@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋,My Name is R.Teja Vardhan</h1>
-<h3 align="center">**Learning, failing, fixing, and building again — until I can support my DAD.**</h3>
-
+<h3 align="center">
+<b><span style="color:#00FFFF;">Learning, failing, fixing, and building again — until I can support my DAD.</span></b>
+</h3>
+<br>
+<br>
 
 - 🌱 I’m currently learning **Python,APIs,LLM API**
 
