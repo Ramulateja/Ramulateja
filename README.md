@@ -28,7 +28,7 @@
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30"/>
 </a>
 <br></br>
-
+---
 <h3>🛠️ Tech Stack</h3>
 
 <p>
@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
-
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ramulateja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
