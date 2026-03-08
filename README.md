@@ -24,11 +24,11 @@
 <a href="https://www.linkedin.com/in/ramula-teja-vardhan-99a1322a5/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramula teja vardhan" height="30" width="40" />
 </a>
+</p>
 <a href="https://www.leetcode.com/ramulateja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramulateja" height="30" width="40" /></a>
 <a href="mailto:ramulatejavardhan6@gmail.com">
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=gmail" height="30" width="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="30" width="40"/>
 </a>
-</p>
 <br></br>
 
 <h3>🛠️ Tech Stack</h3>
