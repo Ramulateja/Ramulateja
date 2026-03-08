@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋,My Name is R.Teja Vardhan</h1>
-<h3 align="center">Learning, failing, fixing, and building again — until I can support my DAD.</h3>
+<h3 align="center" text="bold>Learning, failing, fixing, and building again — until I can support my DAD.</h3>
+
 
 - 🌱 I’m currently learning **Python,APIs,LLM API**
 
 - 👨‍💻 All of my projects are available at [https://tejaportfolio83.vercel.app/](https://tejaportfolio83.vercel.app/)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ramula.Teja vardhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramulatejavardhan6@gmail.com) 
