@@ -26,12 +26,12 @@
 </a>
 <a href="https://www.leetcode.com/ramulateja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramulateja" height="30" width="40" /></a>
 <a href="mailto:ramulatejavardhan6@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="30" width="40"/>
 </a>
 </p>
 
 <br></br>
------------------------------------------------------------------------------------------------------------------
+
 <h3>🛠️ Tech Stack</h3>
 
 <p>
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
-----------------------------------------------------------------------------------------------------------------
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ramulateja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
