@@ -13,7 +13,8 @@
 ### 🚀 Projects
 - **🌦️ Weather App (API-based)**
 -**✅ Todo List Web App**
-- **🌐 Personal Portfolio**  
+- **🌐 Personal Portfolio**
+- **🧮 Calculator**
 👉 https://tejaportfolio83.vercel.app/
 
 ---
