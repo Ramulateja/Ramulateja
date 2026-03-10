@@ -2,7 +2,7 @@
 <b><h3 align="center">Learning, failing, fixing, and building again — until I can support my DAD.</h3></b>
 <br>
 
-<h1 align="cemter">I AM AN AI&DS STUDENT AT ST.MARYS'S ENGINERRING COLLEGE</h1>
+<h2 align="cemter">I AM AN AI&DS STUDENT AT ST.MARYS'S ENGINERRING COLLEGE</h2>
 <br>
 ---
 ### 🌱 Currently Learning
