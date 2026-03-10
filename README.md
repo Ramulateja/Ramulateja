@@ -18,8 +18,8 @@
 - **🌦️ Weather App (API-based)**
 -**✅ Todo List Web App**
 - **🌐 Personal Portfolio**
+- 👉 https://tejaportfolio83.vercel.app/
 - **🧮 Calculator**
-👉 https://tejaportfolio83.vercel.app/
 
 ---
 
