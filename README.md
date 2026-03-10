@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋,My Name is R.Teja Vardhan</h1>
 <b><h3 align="center">Learning, failing, fixing, and building again — until I can support my DAD.</h3></b>
----
-** I AM A AI&DS STUDENT AT ST.MARYS'S ENGINERRING COLLEGE **
 <br>
 
+**I AM A AI&DS STUDENT AT ST.MARYS'S ENGINERRING COLLEGE**
+<br>
+---
 ### 🌱 Currently Learning
 - **Python**
 - **APIs**
