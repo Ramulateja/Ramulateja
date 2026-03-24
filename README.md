@@ -52,7 +52,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramulateja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
-![](https://github-readme-streak-stats.herokuapp.com?user=Ramulateja&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=Ramulateja&theme=github-dark&hide_border=true)
 
 ----
 
