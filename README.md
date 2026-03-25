@@ -50,10 +50,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ramulateja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramulateja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramulateja&show_icons=true&locale=en" alt="ramulateja" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com?user=Ramulateja&hide_border=true&background=161B22&stroke=30363D&ring=FACC15&fire=F97316&currStreakNum=FFFFFF&sideNums=E6EDF3&currStreakLabel=FACC15&sideLabels=9CA3AF&dates=6B7280)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramulateja&" alt="ramulateja" /></p>
 
 ----
 
