@@ -50,9 +50,17 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ramulateja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramulateja&show_icons=true&locale=en" alt="ramulateja" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=ramulateja&show_icons=true&locale=en&theme=dark" 
+       alt="ramulateja" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramulateja&" alt="ramulateja" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ramulateja&theme=dark" 
+       alt="ramulateja" />
+</p>
 
 ----
 
