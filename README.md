@@ -48,11 +48,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 # 📊 GitHub Stats:
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Ramulateja&show_icons=true&count_private=true&bg_color=000000&title_color=ff8c00&text_color=ffffff&icon_color=ff4500&border_color=ff8c00&cache_seconds=1800"
-       alt="ramulateja" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramulateja&show_icons=true&locale=en" alt="ramulateja" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramulateja&background=000000&ring=orange&fire=red&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6a00&sideLabels=ff6a00&dates=888888&stroke=ff6a00" alt="ramulateja" /></p>
 
