@@ -50,7 +50,7 @@
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramulateja&show_icons=true&locale=en&theme=dark" alt="ramulateja" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramulateja&" alt="ramulateja" /></p>
+<p><img align="center" color="black" src="https://github-readme-streak-stats.herokuapp.com/?user=ramulateja&" alt="ramulateja" /></p>
 
 ----
 
