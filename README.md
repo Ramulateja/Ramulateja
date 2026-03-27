@@ -48,7 +48,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramulateja&background=000000&ring=orange&fire=red&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6a00&sideLabels=ff6a00&dates=888888&stroke=ff6a00" alt="ramulateja" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramulateja&background=000000&ring=orange&fire=red&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6a00&sideLabels=ff6a00&dates=888888&stroke=ff6a00" alt="ramulateja" /></p>
 
 ----
 
