@@ -48,12 +48,6 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 # 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramulateja&show_icons=true&locale=en" alt="ramulateja" />
-</div>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramulateja&cache_seconds=1800&background=000000&ring=orange&fire=red&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6a00&sideLabels=ff6a00&dates=888888&stroke=ff6a00" alt="ramulateja" /></p>
 
 ----
