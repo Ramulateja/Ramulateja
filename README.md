@@ -48,7 +48,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramulateja"&background=000000 alt="ramulateja" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramulateja&" alt="ramulateja" /></p>
 
 ----
 
