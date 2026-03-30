@@ -7,7 +7,7 @@
 ---
 
 ### 🌱 Currently Learning
-- **Python**
+- **Python libraries**
 - **APIs**
 - **LLM APIs**
 - Building **AI-powered applications**
@@ -48,8 +48,9 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramulateja&" alt="ramulateja" /></p>
-
-----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramulateja&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+</p>
+------------------------------------------------------------------------------------------------------------------------------
 
 [![](https://visitcount.itsvg.in/api?id=Ramulateja&icon=0&color=0)](https://visitcount.itsvg.in)
