@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,My Name is R.Teja Vardhan</h1>
-<b><h3 align="center">Learning, failing, fixing, and repeat again — until I can support my DAD.</h3></b>
+<b><h3 align="center">Learning, failing, fixing, and repeat again — until I can support my Family.</h3></b>
 <br>
 
 <h2 align="cemter">I AM AN AI&DS STUDENT AT St.Mary's Engineering College</h2>
